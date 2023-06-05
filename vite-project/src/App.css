@@ -1,0 +1,39 @@
+#root {
+  max-width: 1280px;
+  margin: .5%;
+
+}
+
+.pr{
+  border: 3px solid rgb(175, 193, 227);
+  width: 300px;
+  text-align: center;
+  margin: 15px;
+  height: 500px;
+  margin-bottom: 50px;
+  
+}
+img{
+  border-radius: 50%;
+  width: 130px;
+  height: 130px;
+  margin: 4px;
+}
+.pp{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+ 
+}
+footer{
+  text-align: center;
+  background-color: black;
+  width:  1420px;
+  height: 100px;
+}
+.Em{
+ 
+  width: 1420px;
+  height: 70px;
+  margin: 5%;
+}
